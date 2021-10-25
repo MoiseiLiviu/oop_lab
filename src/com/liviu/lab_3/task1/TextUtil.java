@@ -7,7 +7,7 @@ public class TextUtil {
 
     public static long numberOfSentences(String text){
 
-        return text.chars().mapToObj(e->(char)e).collect(Collectors.toList()).stream().filter(c->c=='.').count();
+        return text.chars().mapToObj(e->(char)e).collect(Collectors.toList()).stream().filter(c->c=='.' || c=='?' || c=='!').count();
     }
 
     public static long numberOfWords(String text){

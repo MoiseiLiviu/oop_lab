@@ -1,6 +1,7 @@
 package com.liviu.lab_7.task2;
 
-import lab7.task1.Figure;
+
+import com.liviu.lab_7.task1.Figure;
 
 public class FigureController {
     public static double getBiggestArea(Figure[] figures){

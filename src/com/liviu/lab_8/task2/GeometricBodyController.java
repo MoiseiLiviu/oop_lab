@@ -1,6 +1,7 @@
 package com.liviu.lab_8.task2;
 
-import lab8.task1.GeometricBody;
+
+import com.liviu.lab_8.task1.GeometricBody;
 
 public class GeometricBodyController {
     public static double getBiggestVolume(GeometricBody[] figures){

@@ -1,9 +1,10 @@
 package com.liviu.lab_8.task2;
 
-import lab8.task1.Cub;
-import lab8.task1.GeometricBody;
-import lab8.task1.Parallelepiped;
-import lab8.task1.Sphere;
+
+import com.liviu.lab_8.task1.Cub;
+import com.liviu.lab_8.task1.GeometricBody;
+import com.liviu.lab_8.task1.Parallelepiped;
+import com.liviu.lab_8.task1.Sphere;
 
 public class Task2 {
     public static void main(String[] args) {

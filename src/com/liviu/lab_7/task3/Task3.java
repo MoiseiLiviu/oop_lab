@@ -1,10 +1,11 @@
 package com.liviu.lab_7.task3;
 
-import lab7.task1.Figure;
-import lab7.task1.Rectangle;
-import lab7.task1.Square;
-import lab7.task1.Triangle;
-import lab7.task2.FigureController;
+
+import com.liviu.lab_7.task1.Figure;
+import com.liviu.lab_7.task1.Rectangle;
+import com.liviu.lab_7.task1.Square;
+import com.liviu.lab_7.task1.Triangle;
+import com.liviu.lab_7.task2.FigureController;
 
 public class Task3 {
     public static void main(String[] args) {
